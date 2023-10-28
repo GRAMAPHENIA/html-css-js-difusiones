@@ -68,6 +68,11 @@ code {
   font-weight: 800;
 }
 
+details {
+  margin: 20px 0;
+  text-align: left;
+}
+
 h1 {
   font-size: 40px;
   line-height: 3rem;
