@@ -1,0 +1,15 @@
+[
+    {
+        "id": "0",
+        "titulo": "fieldset",
+        "genero": "CSS",
+        "descripcion": "La etiqueta <fieldset> en HTML es un elemento que se utiliza para agrupar y organizar un conjunto de campos relacionados en un formulario web. Su principal función es proporcionar una manera estructurada y semántica de organizar campos dentro de un formulario. El <fieldset> se utiliza en combinación con la etiqueta <legend>, que proporciona un título descriptivo para el conjunto de campos. La etiqueta <fieldset> es especialmente útil cuando se tiene un formulario con secciones temáticas o conjuntos de datos relacionados. Al incluir campos dentro de un <fieldset>, se crea una especie de contenedor que ayuda a los usuarios a comprender la relación entre esos campos y facilita la navegación en formularios más largos y complejos."
+      },
+      {
+        "id": "1",
+        "titulo": "dialog",
+        "genero": "CSS",
+        "descripcion": "La etiqueta <dialog> en HTML es un elemento que permite crear ventanas emergentes o cuadros de diálogo en una página web. Estos cuadros de diálogo son inicialmente invisibles y pueden ser activados mediante JavaScript. Se utilizan para mostrar información adicional, solicitar entradas del usuario o presentar contenido complementario sin necesidad de redirigir a otra página. Los cuadros de diálogo pueden personalizarse con CSS y JavaScript, lo que los hace útiles para mejorar la interacción del usuario en una página web sin sobrecargar la interfaz principal."
+      }
+     
+]
